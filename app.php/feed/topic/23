@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<link rel="self" type="application/atom+xml" href="https://www.emeraldimmersion.com/app.php/feed/topic/23" />
+
+	
+	
+	<link href="https://www.emeraldimmersion.com/index.php" />
+	<updated>2018-04-15T14:52:59</updated>
+
+	<author><name><![CDATA[]]></name></author>
+	<id>https://www.emeraldimmersion.com/app.php/feed/topic/23</id>
+
+		<entry>
+		<author><name><![CDATA[lightpsycho]]></name></author>
+		<updated>2018-04-15T14:52:59</updated>
+
+		<published>2018-04-15T14:52:59</published>
+		<id>https://www.emeraldimmersion.com/viewtopic.php?t=23&amp;p=73#p73</id>
+		<link href="https://www.emeraldimmersion.com/viewtopic.php?t=23&amp;p=73#p73"/>
+		<title type="html"><![CDATA[Re: **Slash Commands**]]></title>
+
+		
+		<content type="html" xml:base="https://www.emeraldimmersion.com/viewtopic.php?t=23&amp;p=73#p73"><![CDATA[
+/squad promoteme currently only working for the alpha squad. I don't believe they will fix that because this would be too much for the teamplay and not against it. <img class="smilies" src="https://www.emeraldimmersion.com/images/smilies/icon_e_wink.gif" width="15" height="17" alt=";)" title="Wink"><p>Statistics: Posted by <a href="https://www.emeraldimmersion.com/memberlist.php?mode=viewprofile&amp;u=48">lightpsycho</a> — Sun Apr 15, 2018 2:52 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[Davelantor]]></name></author>
+		<updated>2018-04-12T07:38:06</updated>
+
+		<published>2018-04-12T07:38:06</published>
+		<id>https://www.emeraldimmersion.com/viewtopic.php?t=23&amp;p=69#p69</id>
+		<link href="https://www.emeraldimmersion.com/viewtopic.php?t=23&amp;p=69#p69"/>
+		<title type="html"><![CDATA[Re: **Slash Commands**]]></title>
+
+		
+		<content type="html" xml:base="https://www.emeraldimmersion.com/viewtopic.php?t=23&amp;p=69#p69"><![CDATA[
+when stealing a retard lead squad <br>/squad promoteme <br>should be sent right after one or more successful /friend add &lt;insert SL name&gt;<p>Statistics: Posted by <a href="https://www.emeraldimmersion.com/memberlist.php?mode=viewprofile&amp;u=54">Davelantor</a> — Thu Apr 12, 2018 7:38 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[Yume]]></name></author>
+		<updated>2018-04-11T18:57:22</updated>
+
+		<published>2018-04-11T18:57:22</published>
+		<id>https://www.emeraldimmersion.com/viewtopic.php?t=23&amp;p=68#p68</id>
+		<link href="https://www.emeraldimmersion.com/viewtopic.php?t=23&amp;p=68#p68"/>
+		<title type="html"><![CDATA[**Slash Commands**]]></title>
+
+		
+		<content type="html" xml:base="https://www.emeraldimmersion.com/viewtopic.php?t=23&amp;p=68#p68"><![CDATA[
+I found that recently (forgot to Google search everytime I needed that) : Planetside's 2 Slash Commands<br>This will be a copy/paste of <a href="http://wiki.planetside-universe.com/ps/Slash_Commands" class="postlink">the related PSU web page</a><br><br><br><span style="color:#FF4000"><span style="font-size:150%;line-height:116%"><span style="text-decoration:underline">General Commands</span></span></span><br><br><span style="color:#FFFFFF">/friend add &lt;playername&gt;</span><br><em class="text-italics">Sends a friend request to another player. You can friend enemy players.</em><br><br><span style="color:#FFFFFF">/friend</span><br><em class="text-italics">Lists all current friends online</em><br><br><span style="color:#FFFFFF">/ignore add &lt;name&gt;</span><br><em class="text-italics">Adds the named player to your ignore list</em><br><br><span style="color:#FFFFFF">/ignore remove &lt;name&gt;</span><br><em class="text-italics">Removes the named player from your ignore list</em><br><span style="color:#FF4000">_________________________________________</span><br><br><span style="color:#804080"><span style="font-size:150%;line-height:116%"><span style="text-decoration:underline">Platoon Management</span></span></span><br><br><span style="color:#FFFFFF">/platoon leave</span><br><em class="text-italics">Removes your squad from the platoon if you're the squad leader. The squad remains open as a single squad.</em><br><br><span style="color:#FFFFFF">/platoon kick &lt;playername&gt;</span><br><em class="text-italics">Removes a squad with &lt;playername&gt; as the leader from the platoon if you're the platoon leader. The squad remains open as a single squad.</em><br><br><span style="color:#FFFFFF">/platoon setsquadmember # &lt;username&gt;</span><br><em class="text-italics">If you're the platoon leader, moves &lt;username&gt; to # squad. 0 = Alpha, 1 = Bravo, ect.</em><br><br><span style="color:#FFFFFF">/platoon disband</span><br><em class="text-italics">Disbands your platoon if you're the platoon leader. All squads remain open as single squads.</em><br><br><span style="color:#FFFFFF">/platoon invitesquad &lt;squad owner playername&gt;</span><br><em class="text-italics">Platoon or squad leaders can use this to invite squads to either form or make you platoon bigger.(Keep in mind you cant do this if there are members in all 4 squads).</em><br><span style="color:#804080">_________________________________________</span><br><br><span style="color:#008000"><span style="font-size:150%;line-height:116%"><span style="text-decoration:underline">Squad Management</span></span></span><br><br><span style="color:#FFFFFF">/squad invite &lt;playername&gt;</span><br><em class="text-italics">Invites another player to your squad.</em><br><br><span style="color:#FFFFFF">/squad kick &lt;playername&gt;</span><br><em class="text-italics">Kicks a player from your squad if you have permission to do so.</em><br><br><span style="color:#FFFFFF">/squad setowner &lt;playername&gt;</span><br><em class="text-italics">Allows you to promote a player to squad leader if you are leader.</em><br><br><span style="color:#FFFFFF">/squad leave</span><br><em class="text-italics">Removes you from your squad.</em><br><br><span style="color:#FFFFFF">/squad disband</span><br><em class="text-italics">Disbands your squad if you are leader.</em><br><span style="color:#FFFFFF"><br>/squad promoteme</span><br><em class="text-italics">Prompts the squad leader to promote the player.</em><br><span style="color:#008000">_________________________________________</span><br><span style="color:#808080"><br><span style="font-size:150%;line-height:116%"><span style="text-decoration:underline">Outfit</span></span></span><br><br><span style="color:#FFFFFF">/outfit invite &lt;playername&gt;</span><br><em class="text-italics">Invites a player to your outfit if you have permission to do so.</em><br><br><span style="color:#FFFFFF">[/outfit quit] /outfit leave</span><br><em class="text-italics">Leaves your outfit.</em><br><span style="color:#8080BF">_________________________________________</span><br><br><span style="color:#BF0000"><span style="font-size:150%;line-height:116%"><span style="text-decoration:underline">Chat Commands</span></span></span><br><br><span style="color:#FFFFFF">[/s] [/ss] [/sq] /squadsay<br></span><em class="text-italics">Sends a text message to your squad.</em><br><br><span style="color:#FFFFFF">[/p] [/ps] /platoonsay</span><br><em class="text-italics">Sends a text message to your platoon.</em><br><br><span style="color:#FFFFFF">[/o] [/os] /outfitsay</span><br><em class="text-italics">Sends a text message to your outfit.</em><br><br><span style="color:#FFFFFF">[/say]</span><br><em class="text-italics">Sends a text message to the local area around you.</em><br><br><span style="color:#FFFFFF">[/re] /regionsay</span><br><em class="text-italics">Sends a text message to all allies in your current region. Your current region is noted on the left side of the main screen <br>above the map.</em><br><br><span style="color:#FFFFFF">[/y] /yell</span><br><em class="text-italics">Sends a text message to all players in your current region. Enemies will see this message.</em><br><br><span style="color:#FFFFFF">[/t] [/w] /tell &lt;playername&gt;</span><br><em class="text-italics">Sends a direct message to another player. You can see enemy tells.</em><br><br><span style="color:#FFFFFF">[/r] /reply</span><br><em class="text-italics">Replies directly to a player that has sent you a tell.</em><br><span style="color:#BF0000">_________________________________________</span><br><br><span style="color:#FFFFFF"><span style="font-size:150%;line-height:116%"><span style="text-decoration:underline">Other</span></span></span><br><br><span style="color:#FFFFFF">/suicide</span><br><em class="text-italics">Kills yourself</em><br><br><span style="color:#FFFFFF">/report &lt;playername&gt;</span><br><em class="text-italics">Reports the specified player for griefing/cheating.</em><br><br><span style="color:#FFFFFF">/voice join &lt;channelname&gt; &lt;password&gt;</span><br><em class="text-italics">Creates or joins a custom voice channel, accessible with numpad 6. Password is optional.</em><br><br><span style="color:#FFFFFF">/profanity</span><br><em class="text-italics">Toggles the profanity filter.</em><br><br><span style="color:#FFFFFF">/loglevel &lt;type&gt; &lt;level&gt;</span><br><em class="text-italics">Set (or check) the current loglevel. May be useful for reporting bugs. The only useful value of type is local.</em><br><br><span style="color:#FFFFFF">/fps</span><br><em class="text-italics">Turns on the FPS counter in the bottom left corner of the screen.</em><br><span style="color:#FFFFFF">_________________________________________</span><br><br><span style="color:#00FFFF"><span style="font-size:150%;line-height:116%"><span style="text-decoration:underline">Commander</span></span></span><br><br><span style="color:#FFFFFF">[/l] [/c] /leader</span><br><em class="text-italics">Send a message to other leaders (CR Cert and need to be squad leader)</em><br><br><span style="color:#FFFFFF">/orders</span><br><em class="text-italics">Send a message to everyone in your empire on the current continent. (CR Cert and need to be squad leader)</em><br><span style="color:#00FFFF">_________________________________________</span><br><br><br>Hope it'll help you as much as it helps me :3<p>Statistics: Posted by <a href="https://www.emeraldimmersion.com/memberlist.php?mode=viewprofile&amp;u=56">Yume</a> — Wed Apr 11, 2018 6:57 pm</p><hr />
+]]></content>
+	</entry>
+	</feed>

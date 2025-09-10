@@ -1,0 +1,61 @@
+/* gloss.css
+Style elements for the Glossary Extension - Prosilver version
+*/
+
+lmdi-gloss {
+	text-decoration: none;
+	cursor: help;
+	color:#865931;
+	}
+
+#lexiconEntry {
+	position:absolute;
+	left:10%;
+	width:500px;
+	padding:1em;
+	height:auto;
+	border:1px #071491 solid;
+	background:#FFFFFF;
+	color:black;
+	font-size:75%;
+	text-align: center;
+	z-index: 10;
+	}
+
+#lexiconEntry h3{
+	font-size:1.5em;
+	color:#071491;
+	display:inline;
+	}
+
+a#lexiconClose {
+	color:#071491;
+	background:#E3E8D5;
+	padding:0 5px 1px 5px;
+	border:1px solid #071491;
+	float:right;
+	}
+
+a#lexiconClose:hover, a#lexiconClose:active {
+	color:#000000;
+	background:#FD6C9E;
+	border:1px solid #000000;
+	}
+
+#lexiconEntry.loading {
+	background: #FFFFFF;
+	}
+
+img.popgloss {
+	max-width:500px;
+	}
+
+@media only screen and (max-width: 700px), only screen and (max-device-width: 700px) {
+	div#lexiconEntry {
+		width:300px;
+	}
+
+	img.popgloss {
+		max-width:300px;
+		}
+}

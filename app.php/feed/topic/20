@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<link rel="self" type="application/atom+xml" href="https://www.emeraldimmersion.com/app.php/feed/topic/20" />
+
+	
+	
+	<link href="https://www.emeraldimmersion.com/index.php" />
+	<updated>2018-04-09T20:55:52</updated>
+
+	<author><name><![CDATA[]]></name></author>
+	<id>https://www.emeraldimmersion.com/app.php/feed/topic/20</id>
+
+		<entry>
+		<author><name><![CDATA[Pronix]]></name></author>
+		<updated>2018-04-09T20:55:52</updated>
+
+		<published>2018-04-09T20:55:52</published>
+		<id>https://www.emeraldimmersion.com/viewtopic.php?t=20&amp;p=55#p55</id>
+		<link href="https://www.emeraldimmersion.com/viewtopic.php?t=20&amp;p=55#p55"/>
+		<title type="html"><![CDATA[Re: Planetside 2 Weapons - The one and only overview Beta]]></title>
+
+		
+		<content type="html" xml:base="https://www.emeraldimmersion.com/viewtopic.php?t=20&amp;p=55#p55"><![CDATA[
+Oh this is cool, thanks for linking it!<br>And thanks obviously to iWinHD for developing it <img class="smilies" src="https://www.emeraldimmersion.com/images/smilies/icon_e_smile.gif" width="15" height="17" alt=":)" title="Smile"><p>Statistics: Posted by <a href="https://www.emeraldimmersion.com/memberlist.php?mode=viewprofile&amp;u=53">Pronix</a> — Mon Apr 09, 2018 8:55 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[lightpsycho]]></name></author>
+		<updated>2018-04-09T12:08:41</updated>
+
+		<published>2018-04-09T12:08:41</published>
+		<id>https://www.emeraldimmersion.com/viewtopic.php?t=20&amp;p=48#p48</id>
+		<link href="https://www.emeraldimmersion.com/viewtopic.php?t=20&amp;p=48#p48"/>
+		<title type="html"><![CDATA[Planetside 2 Weapons - The one and only overview Beta]]></title>
+
+		
+		<content type="html" xml:base="https://www.emeraldimmersion.com/viewtopic.php?t=20&amp;p=48#p48"><![CDATA[
+Hey there Emerald Immersion,<br><br>like announced a bit in the last 2 weeks I have something I want to share with you. This is the only available weapons overview available for Planetside 2 and it is not only that, it is good looking and - what else to expect - a community driven project of one of my mates from Planetside 2.<br>The credits here go to iWinHD from [CABO] and he knows who else worked on it as well, if somebody needs to know.<br><br><a href="http://ps2tools.tmweb.ru/" class="postlink">http://ps2tools.tmweb.ru/</a><br><br>Here you will be able to find information about the weapons and everything you maybe cant find or compare in the game.<br>This project is into BETA (shouldn't be ALPHA anymore at least) and there is stuff on which should be worked on; so, if you find stuff which is maybe not working correctly or you are not sure about its correct working, write it as best below that topic here and let me know. I will look into it as official BETA tester and let iWinHD know about it once I localised the problem.<br><br>Alright, see you around!<p>Statistics: Posted by <a href="https://www.emeraldimmersion.com/memberlist.php?mode=viewprofile&amp;u=48">lightpsycho</a> — Mon Apr 09, 2018 12:08 pm</p><hr />
+]]></content>
+	</entry>
+	</feed>

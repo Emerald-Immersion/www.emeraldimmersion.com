@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<link rel="self" type="application/atom+xml" href="https://www.emeraldimmersion.com/app.php/feed/topic/56" />
+
+	
+	
+	<link href="https://www.emeraldimmersion.com/index.php" />
+	<updated>2018-09-06T17:32:29</updated>
+
+	<author><name><![CDATA[]]></name></author>
+	<id>https://www.emeraldimmersion.com/app.php/feed/topic/56</id>
+
+		<entry>
+		<author><name><![CDATA[MrKoronas]]></name></author>
+		<updated>2018-09-06T17:32:29</updated>
+
+		<published>2018-09-06T17:32:29</published>
+		<id>https://www.emeraldimmersion.com/viewtopic.php?t=56&amp;p=194#p194</id>
+		<link href="https://www.emeraldimmersion.com/viewtopic.php?t=56&amp;p=194#p194"/>
+		<title type="html"><![CDATA[Re: Whisper list sounds]]></title>
+
+		
+		<content type="html" xml:base="https://www.emeraldimmersion.com/viewtopic.php?t=56&amp;p=194#p194"><![CDATA[
+<div class="inline-attachment"><dl class="file"><dt><span class="imageset icon_topic_attach"></span> <a class="postlink" href="https://www.emeraldimmersion.com/download/file.php?id=28">whisper_notify_new.7z</a></dt></dl></div><p>Statistics: Posted by <a href="https://www.emeraldimmersion.com/memberlist.php?mode=viewprofile&amp;u=49">MrKoronas</a> — Thu Sep 06, 2018 5:32 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[Pronix]]></name></author>
+		<updated>2018-09-06T17:11:02</updated>
+
+		<published>2018-09-06T17:11:02</published>
+		<id>https://www.emeraldimmersion.com/viewtopic.php?t=56&amp;p=193#p193</id>
+		<link href="https://www.emeraldimmersion.com/viewtopic.php?t=56&amp;p=193#p193"/>
+		<title type="html"><![CDATA[Whisper list sounds]]></title>
+
+		
+		<content type="html" xml:base="https://www.emeraldimmersion.com/viewtopic.php?t=56&amp;p=193#p193"><![CDATA[
+I'll attach a little beep for imcoming whispers.<br><div class="inline-attachment"><dl class="file"><dt><span class="imageset icon_topic_attach"></span> <a class="postlink" href="https://www.emeraldimmersion.com/download/file.php?id=27">teamspeak_whisper_notify.zip</a></dt></dl></div>To get it to work, you need to replace a file called 'whisper_notify.wav' in your <br>../Teamspeak3/sound/default <br>folder<br><br>Any other questions, feel free to ask.<p>Statistics: Posted by <a href="https://www.emeraldimmersion.com/memberlist.php?mode=viewprofile&amp;u=53">Pronix</a> — Thu Sep 06, 2018 5:11 pm</p><hr />
+]]></content>
+	</entry>
+	</feed>

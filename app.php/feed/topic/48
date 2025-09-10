@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<link rel="self" type="application/atom+xml" href="https://www.emeraldimmersion.com/app.php/feed/topic/48" />
+
+	
+	
+	<link href="https://www.emeraldimmersion.com/index.php" />
+	<updated>2018-08-26T15:27:59</updated>
+
+	<author><name><![CDATA[]]></name></author>
+	<id>https://www.emeraldimmersion.com/app.php/feed/topic/48</id>
+
+		<entry>
+		<author><name><![CDATA[lightpsycho]]></name></author>
+		<updated>2018-08-26T15:27:59</updated>
+
+		<published>2018-08-26T15:27:59</published>
+		<id>https://www.emeraldimmersion.com/viewtopic.php?t=48&amp;p=165#p165</id>
+		<link href="https://www.emeraldimmersion.com/viewtopic.php?t=48&amp;p=165#p165"/>
+		<title type="html"><![CDATA[Re: PC Game Update - 8/15 - Fanning the Fire-Teams]]></title>
+
+		
+		<content type="html" xml:base="https://www.emeraldimmersion.com/viewtopic.php?t=48&amp;p=165#p165"><![CDATA[
+"[...]we'd like to add the ability to leave chat channels[...]" yay, more for soloplayers and their wasted ressources! I wonder how many of them will just instantly leave the leaderchat. Good work daybreak! We need want more battlefield feeling and "farming" to stay away of the game much earlier <img class="smilies" src="https://www.emeraldimmersion.com/images/smilies/icon_e_smile.gif" width="15" height="17" alt=":)" title="Smile"><p>Statistics: Posted by <a href="https://www.emeraldimmersion.com/memberlist.php?mode=viewprofile&amp;u=48">lightpsycho</a> — Sun Aug 26, 2018 3:27 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[Axil | varmik]]></name></author>
+		<updated>2018-08-23T16:19:34</updated>
+
+		<published>2018-08-23T16:19:34</published>
+		<id>https://www.emeraldimmersion.com/viewtopic.php?t=48&amp;p=158#p158</id>
+		<link href="https://www.emeraldimmersion.com/viewtopic.php?t=48&amp;p=158#p158"/>
+		<title type="html"><![CDATA[Re: PC Game Update - 8/15 - Fanning the Fire-Teams]]></title>
+
+		
+		<content type="html" xml:base="https://www.emeraldimmersion.com/viewtopic.php?t=48&amp;p=158#p158"><![CDATA[
+They published a hotfix today to adress some issues : <a href="https://forums.daybreakgames.com/ps2/index.php?threads/pc-hotfix-8-23.250187/" class="postlink">https://forums.daybreakgames.com/ps2/in ... 23.250187/</a><br><br>Meta<br><br>    Aerial Anomalies continent event now spawns the intended number of anomalies at a time. Which is one. One anomaly.<br>    Update: Anomalies are going to be disabled in this hotfix until we shore up some remaining issues.<br>    Added workaround for bugged 0:00:00 alert timer (should now clear if you re-open your map.)<br>    Speculative fix for ASP discount not working on Live after an Aerial Anomaly continent event.<br><br>Squad<br><br>    We've embraced beacon access for all players as a feature. In the next update we'd like to have Fireteam locking which will make controlling this feature a bit more intuitive.<br>    Squad and Platoon Leaders now always have access to Leaders chat (and Leaders voice) by default. In the future we'd like to add the ability to leave chat channels.<br>    Squad mini-map facing direction indicators no longer use the large arrow, but has been replaced with a directional pip for less screen clutter.<br>    Squad, Platoon, and Fireteam waypoints can now be deleted by the waypoint owners, and the "delete all waypoints" command now works.<br>    Squad and Platoon waypoints have received an updated visual style which improves upon the design in the last update.<br>    Platoon leaders can once again promote themselves to Squad Leader.<br>    Updated the visual beams on the Fireteam waypoints to be thinner.<br>    Squad pane should now properly filter Mentor squads.<br>    Mentor squad is no longer enabled by default.<br>    Added [FIRETEAM] chat string.<br>    /sitrep now only requires a minimum squad of two to use the command.<br><br>Implants<br><br>    Breaking down implants no longer allows you to go above the ISO-4 limit of 100,000.<br>    Increased the DBC cost of the ISO-4 Recycler to 249.<br>    Ransack now states the correct range at rank 5.<br>    Heavyweight now uses the correct description everywhere.<br>    Experimental Stims will no longer be broken down without owning a duplicate.<br>    Updated Jockey's description.<br><br>Survivalist<br><br>    Now triggers when health is reduced below 40% health of your maximum, instead of below 250 health flat.<br>    Now has a 12 second cooldown between usage.<br>    Sprint increase duration from 3/4.5/6/8/8 seconds to 3/3.5/4.5/6/6 seconds.<br>    Added visual FX trail when sprint speed is increased.<br><br>Infantry<br><br>    Adrenaline Shield restores energy on kills once again.<br>    PS1-AV Suppressor now uses the correct 360 velocity the MKV Suppressed does.<br>    Fixed an issue that could cause Motion Spotters and Recon Devices to act erratically.<br><br>Vehicles<br><br>    Valkyrie's Wyvern received the wrong damage adjustment last update. It should now deal 200@50m - 143@150m.<br>    Fixed some issues with Jamming Field FX.<br>    Toned down the Deploy Shield Sunderer's visual FX.<br>    Anchored Mode should no longer appear in the Utility Slot as an option.<br><br>Construction<br><br>    Solid Wall should now render beyond 150 meters.<br>    Solid Wall should now share space with the Rampart Wall as intended, and allow for placement of more than one of them at a time.<br>    Welding Device should now deconstruct construction objects again.<br>    Model for Flail is now updated to look unique from the Glaive.<br><br>Cosmetics<br><br>    Female Bastion TR Heavy Assault armor can now be equipped without breaking the character.<br>    Barrens Camo now has an icon.<br><br>Known Issues<br><br>    Squad Leaders within a platoon can seemingly adjust Beacon access of other squads. This is only a visual bug, however.<br>    Players who unlocked Experimental Stims before the update and still have access to it will see their implant as "locked" in the loadout screen, but will still be able to equip it.<p>Statistics: Posted by <a href="https://www.emeraldimmersion.com/memberlist.php?mode=viewprofile&amp;u=81">Axil | varmik</a> — Thu Aug 23, 2018 4:19 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[lightpsycho]]></name></author>
+		<updated>2018-08-17T01:59:05</updated>
+
+		<published>2018-08-17T01:59:05</published>
+		<id>https://www.emeraldimmersion.com/viewtopic.php?t=48&amp;p=155#p155</id>
+		<link href="https://www.emeraldimmersion.com/viewtopic.php?t=48&amp;p=155#p155"/>
+		<title type="html"><![CDATA[Re: PC Game Update - 8/15 - Fanning the Fire-Teams]]></title>
+
+		
+		<content type="html" xml:base="https://www.emeraldimmersion.com/viewtopic.php?t=48&amp;p=155#p155"><![CDATA[
+A lot of stuff is not working - oh wonder. Mardevian and me together with Wh1tebe4rd tested it. I will write later about it.<p>Statistics: Posted by <a href="https://www.emeraldimmersion.com/memberlist.php?mode=viewprofile&amp;u=48">lightpsycho</a> — Fri Aug 17, 2018 1:59 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[lightpsycho]]></name></author>
+		<updated>2018-08-16T21:00:52</updated>
+
+		<published>2018-08-16T21:00:52</published>
+		<id>https://www.emeraldimmersion.com/viewtopic.php?t=48&amp;p=154#p154</id>
+		<link href="https://www.emeraldimmersion.com/viewtopic.php?t=48&amp;p=154#p154"/>
+		<title type="html"><![CDATA[Re: PC Game Update - 8/15 - Fanning the Fire-Teams]]></title>
+
+		
+		<content type="html" xml:base="https://www.emeraldimmersion.com/viewtopic.php?t=48&amp;p=154#p154"><![CDATA[
+But they took the last bit of difference for the magrider. Not that the prowler and vanguard would just rush through a maggy in seconds if you don't have the experience and knowledge while a random user is on the opposite site, no, now they are getting buffed again. Well, maybe this is giving me more a feeling of not being bored the most time in a maggy... lol<br><br>orders channel removement was announced 3 patches ago already.<p>Statistics: Posted by <a href="https://www.emeraldimmersion.com/memberlist.php?mode=viewprofile&amp;u=48">lightpsycho</a> — Thu Aug 16, 2018 9:00 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[Mardevian]]></name></author>
+		<updated>2018-08-16T15:05:24</updated>
+
+		<published>2018-08-16T15:05:24</published>
+		<id>https://www.emeraldimmersion.com/viewtopic.php?t=48&amp;p=153#p153</id>
+		<link href="https://www.emeraldimmersion.com/viewtopic.php?t=48&amp;p=153#p153"/>
+		<title type="html"><![CDATA[Re: PC Game Update - 8/15 - Fanning the Fire-Teams]]></title>
+
+		
+		<content type="html" xml:base="https://www.emeraldimmersion.com/viewtopic.php?t=48&amp;p=153#p153"><![CDATA[
+A LOT of changes in this update, and many of them without prior PTS testing apparently.<br>Many of these new implants have a lot of potential, some may even be highly mandatory (Bionics looks amazing for engineers, Fortify might be a gamechanger for drops on points).<br><br>Negative: they removed the Orders channel, for no discernable reason it seems. No real alternative, effectively crippling faction coordination ingame.<br><br>Slight HESH nerf and AP buff, and finally tank guns will kill Flak armour infanty on a direct hit. Nothing quite so tilting as hitting a HA to the face with an FPC and not getting a kill.<br><br>The implant crafting system will be largely irrelevant for seasoned players, most of the interesting ones are exceptionals and cannot be crafted, the rest will be gotten simply through alerts.<br><br>Looking forward to seeing these *ahem* "code improvements" in practice.<br><br><br>Fyi:<br><a href="https://i.imgur.com/tMzrdR3.png" class="postlink">https://i.imgur.com/tMzrdR3.png</a><br><br>New implant drop rates. TL;DR: ISO4-Recyclers all the way to obtain the exceptional/uncommon ones asap.<p>Statistics: Posted by <a href="https://www.emeraldimmersion.com/memberlist.php?mode=viewprofile&amp;u=103">Mardevian</a> — Thu Aug 16, 2018 3:05 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[lightpsycho]]></name></author>
+		<updated>2018-08-16T12:32:19</updated>
+
+		<published>2018-08-16T12:32:19</published>
+		<id>https://www.emeraldimmersion.com/viewtopic.php?t=48&amp;p=152#p152</id>
+		<link href="https://www.emeraldimmersion.com/viewtopic.php?t=48&amp;p=152#p152"/>
+		<title type="html"><![CDATA[Re: PC Game Update - 8/15 - Fanning the Fire-Teams]]></title>
+
+		
+		<content type="html" xml:base="https://www.emeraldimmersion.com/viewtopic.php?t=48&amp;p=152#p152"><![CDATA[
+*caugh* "New" event .... better call it very old event <img class="smilies" src="https://www.emeraldimmersion.com/images/smilies/icon_e_biggrin.gif" width="15" height="17" alt=":D" title="Very Happy"><br><br><br>yeah the decal is still only in valid submission status.<br>It probably won't change anymore. I am waiting for this almost 1.5 years now and nothing going further. <br>But how do you know it? Hacked my submission account? <img class="smilies" src="https://www.emeraldimmersion.com/images/smilies/icon_razz.gif" width="15" height="17" alt=":P" title="Razz"><p>Statistics: Posted by <a href="https://www.emeraldimmersion.com/memberlist.php?mode=viewprofile&amp;u=48">lightpsycho</a> — Thu Aug 16, 2018 12:32 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[Pronix]]></name></author>
+		<updated>2018-08-16T10:41:21</updated>
+
+		<published>2018-08-16T10:41:21</published>
+		<id>https://www.emeraldimmersion.com/viewtopic.php?t=48&amp;p=151#p151</id>
+		<link href="https://www.emeraldimmersion.com/viewtopic.php?t=48&amp;p=151#p151"/>
+		<title type="html"><![CDATA[PC Game Update - 8/15 - Fanning the Fire-Teams]]></title>
+
+		
+		<content type="html" xml:base="https://www.emeraldimmersion.com/viewtopic.php?t=48&amp;p=151#p151"><![CDATA[
+Patch notes link:<br><br><a href="https://forums.daybreakgames.com/ps2/index.php?threads/pc-game-update-8-15-fanning-the-fire-teams.250101/#post-3511809" class="postlink">CLICK HERE</a>.<br><br>Since this is a hell of a lot to copy, i will just get the most important stuff in here:<br><ul><li> Code Improvements</li><li> Warpgates stabilize after 3 hours -&gt; Faster triggering of alerts and better continent rotation</li><li> New Event: Gaining Ground. Capture Major Outposts and hold them to win</li><li> <strong class="text-strong"><span style="text-decoration:underline">Squad improvements:</span></strong></li><li> Mentor Squads can be opened now (Can't be turned into Platoons, especially for players below BR 15</li><li> New Visuals for Waypoints</li><li> Squads can be auto filled to Platoons (will see how that works exactly)</li><li> Squad map indicators show the direction Squad members are facing</li><li> Outfit hosted Platoons</li><li> Fireteam leaders have the ability to place beacons and waypoints</li><li> Orders chat has been removed</li><li> New building directive</li><li> Tons of new Implants and rebalance of existing Implants</li><li> Implants are now craftable with ISO-4</li><li> Vehicle rebalance</li><li> Some Infantry gun balance, and slight buff of Supressor and High Velocity Ammo</li><li> New Player studio stuff and Outfit decals, sadly no EDIM decal</li><li> Various other fixes</li></ul>That list is longer than expected, check out the patch notes for the rest.<br><br>Looks like a great patch!<p>Statistics: Posted by <a href="https://www.emeraldimmersion.com/memberlist.php?mode=viewprofile&amp;u=53">Pronix</a> — Thu Aug 16, 2018 10:41 am</p><hr />
+]]></content>
+	</entry>
+	</feed>

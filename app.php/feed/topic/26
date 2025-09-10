@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<link rel="self" type="application/atom+xml" href="https://www.emeraldimmersion.com/app.php/feed/topic/26" />
+
+	
+	
+	<link href="https://www.emeraldimmersion.com/index.php" />
+	<updated>2018-04-25T22:34:25</updated>
+
+	<author><name><![CDATA[]]></name></author>
+	<id>https://www.emeraldimmersion.com/app.php/feed/topic/26</id>
+
+		<entry>
+		<author><name><![CDATA[BrainInBlack]]></name></author>
+		<updated>2018-04-25T22:34:25</updated>
+
+		<published>2018-04-25T22:34:25</published>
+		<id>https://www.emeraldimmersion.com/viewtopic.php?t=26&amp;p=83#p83</id>
+		<link href="https://www.emeraldimmersion.com/viewtopic.php?t=26&amp;p=83#p83"/>
+		<title type="html"><![CDATA[Re: [Forum] OAuth not working as intended]]></title>
+
+		
+		<content type="html" xml:base="https://www.emeraldimmersion.com/viewtopic.php?t=26&amp;p=83#p83"><![CDATA[
+No rush... the workaround with using the register page and then setting a separate password is working just fine <img class="smilies" src="https://www.emeraldimmersion.com/images/smilies/icon_e_wink.gif" width="15" height="17" alt=";)" title="Wink"><p>Statistics: Posted by <a href="https://www.emeraldimmersion.com/memberlist.php?mode=viewprofile&amp;u=70">BrainInBlack</a> — Wed Apr 25, 2018 10:34 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[MrKoronas]]></name></author>
+		<updated>2018-04-24T18:52:15</updated>
+
+		<published>2018-04-24T18:52:15</published>
+		<id>https://www.emeraldimmersion.com/viewtopic.php?t=26&amp;p=81#p81</id>
+		<link href="https://www.emeraldimmersion.com/viewtopic.php?t=26&amp;p=81#p81"/>
+		<title type="html"><![CDATA[Re: [Forum] OAuth not working as intended]]></title>
+
+		
+		<content type="html" xml:base="https://www.emeraldimmersion.com/viewtopic.php?t=26&amp;p=81#p81"><![CDATA[
+I'll look into when my time is spare, no doubt I will have it working thanks for pointing it out<p>Statistics: Posted by <a href="https://www.emeraldimmersion.com/memberlist.php?mode=viewprofile&amp;u=49">MrKoronas</a> — Tue Apr 24, 2018 6:52 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[BrainInBlack]]></name></author>
+		<updated>2018-04-24T03:03:59</updated>
+
+		<published>2018-04-24T03:03:59</published>
+		<id>https://www.emeraldimmersion.com/viewtopic.php?t=26&amp;p=80#p80</id>
+		<link href="https://www.emeraldimmersion.com/viewtopic.php?t=26&amp;p=80#p80"/>
+		<title type="html"><![CDATA[[Forum] OAuth not working as intended]]></title>
+
+		
+		<content type="html" xml:base="https://www.emeraldimmersion.com/viewtopic.php?t=26&amp;p=80#p80"><![CDATA[
+Might just be an oversight, but a user can register via OAuth just fine but, there is no option to login via the same method on the login page.<br><br>Have to use the register page to login to my forum account. Don't think that this is intended.<p>Statistics: Posted by <a href="https://www.emeraldimmersion.com/memberlist.php?mode=viewprofile&amp;u=70">BrainInBlack</a> — Tue Apr 24, 2018 3:03 am</p><hr />
+]]></content>
+	</entry>
+	</feed>

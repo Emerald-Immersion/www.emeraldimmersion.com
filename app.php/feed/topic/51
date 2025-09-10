@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<link rel="self" type="application/atom+xml" href="https://www.emeraldimmersion.com/app.php/feed/topic/51" />
+
+	
+	
+	<link href="https://www.emeraldimmersion.com/index.php" />
+	<updated>2018-08-30T21:42:01</updated>
+
+	<author><name><![CDATA[]]></name></author>
+	<id>https://www.emeraldimmersion.com/app.php/feed/topic/51</id>
+
+		<entry>
+		<author><name><![CDATA[Pronix]]></name></author>
+		<updated>2018-08-30T21:42:01</updated>
+
+		<published>2018-08-30T21:42:01</published>
+		<id>https://www.emeraldimmersion.com/viewtopic.php?t=51&amp;p=171#p171</id>
+		<link href="https://www.emeraldimmersion.com/viewtopic.php?t=51&amp;p=171#p171"/>
+		<title type="html"><![CDATA[Re: Dev Livestream 30/08/2018]]></title>
+
+		
+		<content type="html" xml:base="https://www.emeraldimmersion.com/viewtopic.php?t=51&amp;p=171#p171"><![CDATA[
+ <strong>iframe</strong> <br><br>Recap in this neat little reddit thread<p>Statistics: Posted by <a href="https://www.emeraldimmersion.com/memberlist.php?mode=viewprofile&amp;u=53">Pronix</a> — Thu Aug 30, 2018 9:42 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[Pronix]]></name></author>
+		<updated>2018-08-30T10:55:13</updated>
+
+		<published>2018-08-30T10:55:13</published>
+		<id>https://www.emeraldimmersion.com/viewtopic.php?t=51&amp;p=170#p170</id>
+		<link href="https://www.emeraldimmersion.com/viewtopic.php?t=51&amp;p=170#p170"/>
+		<title type="html"><![CDATA[Dev Livestream 30/08/2018]]></title>
+
+		
+		<content type="html" xml:base="https://www.emeraldimmersion.com/viewtopic.php?t=51&amp;p=170#p170"><![CDATA[
+Dev livestream tonight at<br><span data-s9e-mediaembed="twitch" style="display:inline-block;width:100%;max-width:640px"><span style="display:block;overflow:hidden;position:relative;padding-bottom:56.25%"> <strong>iframe</strong> </span></span><br><br> <strong>iframe</strong> <br><br>Should start at 9 pm UTC, 10 pm GMT, 11 pm CEST<br><br>Looking forward to what they want to show us<p>Statistics: Posted by <a href="https://www.emeraldimmersion.com/memberlist.php?mode=viewprofile&amp;u=53">Pronix</a> — Thu Aug 30, 2018 10:55 am</p><hr />
+]]></content>
+	</entry>
+	</feed>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<link rel="self" type="application/atom+xml" href="https://www.emeraldimmersion.com/app.php/feed/topic/50" />
+
+	
+	
+	<link href="https://www.emeraldimmersion.com/index.php" />
+	<updated>2018-08-29T17:04:58</updated>
+
+	<author><name><![CDATA[]]></name></author>
+	<id>https://www.emeraldimmersion.com/app.php/feed/topic/50</id>
+
+		<entry>
+		<author><name><![CDATA[Pronix]]></name></author>
+		<updated>2018-08-29T17:04:58</updated>
+
+		<published>2018-08-29T17:04:58</published>
+		<id>https://www.emeraldimmersion.com/viewtopic.php?t=50&amp;p=169#p169</id>
+		<link href="https://www.emeraldimmersion.com/viewtopic.php?t=50&amp;p=169#p169"/>
+		<title type="html"><![CDATA[Re: PC Hotfix - 8/29/2018]]></title>
+
+		
+		<content type="html" xml:base="https://www.emeraldimmersion.com/viewtopic.php?t=50&amp;p=169#p169"><![CDATA[
+"Speculative fix for outfit applications crashing the client when viewed."<br>I'll take that. Please actually work this time though.<br><br>Also nice to see Aerial Anomalies back<p>Statistics: Posted by <a href="https://www.emeraldimmersion.com/memberlist.php?mode=viewprofile&amp;u=53">Pronix</a> — Wed Aug 29, 2018 5:04 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[exe]]></name></author>
+		<updated>2018-08-29T16:25:33</updated>
+
+		<published>2018-08-29T16:25:33</published>
+		<id>https://www.emeraldimmersion.com/viewtopic.php?t=50&amp;p=168#p168</id>
+		<link href="https://www.emeraldimmersion.com/viewtopic.php?t=50&amp;p=168#p168"/>
+		<title type="html"><![CDATA[PC Hotfix - 8/29/2018]]></title>
+
+		
+		<content type="html" xml:base="https://www.emeraldimmersion.com/viewtopic.php?t=50&amp;p=168#p168"><![CDATA[
+Meta<br>The Aerial Anomaly event has been reactivated, and should no longer produce multiple anomalies at a time.<br>Esamir's Gaining Ground event UI no longer shows each base and name, and now falls in line with other Gaining Ground event.<br><br><br>Sitrep<br>Reworked the way sitrep's sentences are structured, examples below.<br>Capturing The Crown from Terran Republic in 1:35.<br>Resecuring The Crown in 2:05.<br>When attacking a base, sitrep now indicates which faction you're trying to take the base from.<br>/sitrep can now be used even when capture timers are idle, and will notify players "attempting to capture" or "attempting to defend" message.<br><br><br>Squad<br>We've disabled the "Outfit Hosting" feature for the time being due to complications with dropping squads from platoons.<br>Squad leaders can now "lock" fireteams to prevent players from auto-filtering into them. Click on the fireteam suit icon to lock or unlock it.<br>Mentor squads flagged as private will no longer allow players to bypass the private flag.<br><br><br>Vehicle<br>L100 Python HESH (Lightning)<br>Direct damage increased from 575 to 600, as was intended in the last update.<br><br><br>Construction<br>Solid Wall now has an icon<br>Solid Wall can now be repaired<br>Fixed a bug where Solid Wall could be equipped as a tool for TR Engineer.<br><br><br>Implants<br>Ransack's rank 5 bonus now provides 10% of max health, instead of 10% of current health on kill.<br>Symbiote's resistance bonus no longer stacks with Resist Shield.<br><br><br>Misc.<br>The loadout screen's filters should no longer get stuck in a state where players would not be able to see items they own (or don't own.)<br>Speculative fix for outfit applications crashing the client when viewed.<br><br><br>Known Issues<br>A.S.P. vehicle discounts can break at the end of an event. Relogging should fix this issue temporarily.<p>Statistics: Posted by <a href="https://www.emeraldimmersion.com/memberlist.php?mode=viewprofile&amp;u=88">exe</a> — Wed Aug 29, 2018 4:25 pm</p><hr />
+]]></content>
+	</entry>
+	</feed>

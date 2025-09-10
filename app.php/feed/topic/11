@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<link rel="self" type="application/atom+xml" href="https://www.emeraldimmersion.com/app.php/feed/topic/11" />
+
+	
+	
+	<link href="https://www.emeraldimmersion.com/index.php" />
+	<updated>2018-04-06T22:51:37</updated>
+
+	<author><name><![CDATA[]]></name></author>
+	<id>https://www.emeraldimmersion.com/app.php/feed/topic/11</id>
+
+		<entry>
+		<author><name><![CDATA[MrKoronas]]></name></author>
+		<updated>2018-04-06T22:51:37</updated>
+
+		<published>2018-04-06T22:51:37</published>
+		<id>https://www.emeraldimmersion.com/viewtopic.php?t=11&amp;p=17#p17</id>
+		<link href="https://www.emeraldimmersion.com/viewtopic.php?t=11&amp;p=17#p17"/>
+		<title type="html"><![CDATA[Old school Trance]]></title>
+
+		
+		<content type="html" xml:base="https://www.emeraldimmersion.com/viewtopic.php?t=11&amp;p=17#p17"><![CDATA[
+<span data-s9e-mediaembed="youtube" style="display:inline-block;width:100%;max-width:640px"><span style="display:block;overflow:hidden;position:relative;padding-bottom:56.25%"> <strong>iframe</strong> </span></span><p>Statistics: Posted by <a href="https://www.emeraldimmersion.com/memberlist.php?mode=viewprofile&amp;u=49">MrKoronas</a> — Fri Apr 06, 2018 10:51 pm</p><hr />
+]]></content>
+	</entry>
+	</feed>

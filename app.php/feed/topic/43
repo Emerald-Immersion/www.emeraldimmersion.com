@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<link rel="self" type="application/atom+xml" href="https://www.emeraldimmersion.com/app.php/feed/topic/43" />
+
+	
+	
+	<link href="https://www.emeraldimmersion.com/index.php" />
+	<updated>2018-07-03T13:08:50</updated>
+
+	<author><name><![CDATA[]]></name></author>
+	<id>https://www.emeraldimmersion.com/app.php/feed/topic/43</id>
+
+		<entry>
+		<author><name><![CDATA[Pronix]]></name></author>
+		<updated>2018-07-03T13:08:50</updated>
+
+		<published>2018-07-03T13:08:50</published>
+		<id>https://www.emeraldimmersion.com/viewtopic.php?t=43&amp;p=128#p128</id>
+		<link href="https://www.emeraldimmersion.com/viewtopic.php?t=43&amp;p=128#p128"/>
+		<title type="html"><![CDATA[Re: PC Game Update - 6/28 - Summer Overwhelming]]></title>
+
+		
+		<content type="html" xml:base="https://www.emeraldimmersion.com/viewtopic.php?t=43&amp;p=128#p128"><![CDATA[
+I totally missed the patchnots for that one, thanks!<br>Can't wait for the summer directive, should be fun.<br><br>Now with that update, i believe, they introduced the 'broken' galaxy wing weapons. While it's fun and all, i'm wondering when they are planning on fixing that <img class="smilies" src="https://www.emeraldimmersion.com/images/smilies/icon_e_biggrin.gif" width="15" height="17" alt=":D" title="Very Happy"><p>Statistics: Posted by <a href="https://www.emeraldimmersion.com/memberlist.php?mode=viewprofile&amp;u=53">Pronix</a> — Tue Jul 03, 2018 1:08 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[exe]]></name></author>
+		<updated>2018-07-03T09:07:03</updated>
+
+		<published>2018-07-03T09:07:03</published>
+		<id>https://www.emeraldimmersion.com/viewtopic.php?t=43&amp;p=127#p127</id>
+		<link href="https://www.emeraldimmersion.com/viewtopic.php?t=43&amp;p=127#p127"/>
+		<title type="html"><![CDATA[PC Game Update - 6/28 - Summer Overwhelming]]></title>
+
+		
+		<content type="html" xml:base="https://www.emeraldimmersion.com/viewtopic.php?t=43&amp;p=127#p127"><![CDATA[
+Link to original thread: <a href="https://forums.daybreakgames.com/ps2/index.php?threads/pc-game-update-6-28-summer-overwhelming.249775/" class="postlink">https://forums.daybreakgames.com/ps2/in ... ng.249775/</a><br><br><br>Independence Day - July 4 through July 8<br>We'll be holding Independence Day festivities starting the 4th of July and running through the 8th of July.<br>ALL players will receive DOUBLE EXPERIENCE during the event; Infantry Gear will be discounted by 40%; and special time-limited event items will be available in the Depot.<br>You'll also find the FREEDOM THRUSTERS available in your Light Assault infantry loadouts. These jump jets are max rank Skirmishers with a patriotic twist.<br>For New Conglomerate characters only, a stylish Independence Day variant of the Nomad Light Assault armor will also be available in the Depot.<br><br>Summer Event - July 4 through August 31<br>Starting the 4th of July and running through August 31st, we'll also be kicking off a summer event, complete with a new directive line, rewards, and complementary weapons to tame the Indar heat.<br>Check your secondary weapon slot to find the new Soldier Soaker pistol, able to pelt enemies with a blast of water.<br>Water Balloons can also be found in the Grenade Slot. These balloons detonate on impact, and deal moderate damage.<br>Both the Soldier Soaker and Water Balloon kills contribute to the a new Summer directive, and these items will disappear from players' loadouts when the event ends.<br><br><br>Summer Event Directive<br>Beat the Heat: Score kills with a Summer Holiday Weapon<br>Beachhead: Kill enemy vehicles while in a vehicle yourself<br>Death From Above: Kill enemies while mid-air as any infantry class<br>Summer Support Ribbons: Earn summer support ribbons by resupplying or repairing friendly vehicles while in a vehicle yourself<br>Transport Assist: Earn experience when allies leave your transport vehicle and score a kill<br>King of the Castle: Earn experience by capturing or defending control points<br><br>Tier 2 (Silver) Reward<br>Indar Summer Profile Banner<br><br>Tier 3 (Gold) Reward<br>Flash Empire Specific Weaponry<br>We've introduced three new Flash Weapons as summer event rewards. These items will go into the Depot later in the year, but for now you can unlock them early and without a cert price.<br>LA7 Buzzard (New Conglomerate)<br>The Buzzard converts the flash into a makeshift artillery platform, using heavy high explosive shells with a large blast radius. NC use only.<br>V30-F Starfall (Vanu Sovereignty)<br>The Starfall fires a quick 3 round plasma barrage, meant to strike at unsuspecting vehicles with lighting speed. VS use only.<br>M4-F Pillager (Terran Republic)<br>The Pillager lays down a field of flames which ignite infantry caught within. TR use only.<br><br>Tier 4 (Auraxium) Reward<br>Auraxium Water Balloon Hood Ornament<br><br>Bug fixes and Misc.<br>Firing a Phoenix from a vehicle will no longer crash the player's client.<br>Shield Recharging Field has correct HP again.<br>Orbital Strike can no longer be infinitely fired.<br>Squad Members can no longer deconstruct silos unless they own them.<br>Deployable exclusion ranges have been removed from non-unique modules.<br>Routers and Elysium Spawn Tubes now award bonus experience to the owner for player spawns.<br>MAX now has new directive objective: Damage to Vehicles.<br>Valkyrie now has new directive objective: Roadkills<br>Players can no longer spawn through walls using the Router.<br>Welding Tool has been removed from the Silo and ANT terminals.<br>MGR-M1 Bishop's Sabot Ammunition now properly reduces the weapon's rate of fire.<br>Known Issues<br>LA7 Buzzard has a 20 meter arming distance, but this isn't conveyed in the weapon's animations at the moment, and will be remedied in the next update.<p>Statistics: Posted by <a href="https://www.emeraldimmersion.com/memberlist.php?mode=viewprofile&amp;u=88">exe</a> — Tue Jul 03, 2018 9:07 am</p><hr />
+]]></content>
+	</entry>
+	</feed>
